@@ -56,7 +56,7 @@ class HomeTableViewController: UITableViewController {
         numberOfTweets = numberOfTweets + 20
         let myParams = ["count": numberOfTweets]
         
-        TwitterAPICaller.client?.getDictionariesRequest(url: twitterUrl, parameters: myParams, success: { (tweets:[NSDictionary]) in
+        TwitterAPICaller.client?.getDictionariesRequest(url: twitterUrl, parameters: myParams as [String : Any], success: { (tweets:[NSDictionary]) in
             self.tweetArray.removeAll();
             for tweet in tweets {
                 self.tweetArray.append(tweet)
