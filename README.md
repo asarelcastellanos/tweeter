@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./tweeterFunctions.gif' title='Function Walkthrough' width='' alt='Function Walkthrough' />
+<img src='./tweeterFunctions.gif' title='Function Walkthrough' width=250 alt='Function Walkthrough' />
 
 # Tweeter
 
@@ -63,5 +63,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./tweeter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./tweeter.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
