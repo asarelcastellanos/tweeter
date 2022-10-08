@@ -18,6 +18,12 @@ The following **bonus** features are implemented:
 - [ ] User can view their profile in a profile tab. (3pts)
 - [ ] User sees embedded images in tweet if available. (3pts)
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='./tweeterFunctions.gif' title='Function Walkthrough' width='' alt='Function Walkthrough' />
+
 # Tweeter
 
 Tweeter is a basic twitter app to read your tweets.
